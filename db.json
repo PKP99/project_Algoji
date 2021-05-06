@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@project.com",
+      "name": "admin",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "email": "pp971827@gmail.com",
+      "name": "Paras",
+      "password": "12345678"
+    },
+    {
+      "id": 3,
+      "email": "lakshya@gmail.com",
+      "name": "Lakshya",
+      "password": "abcdefgh"
+    },
+    {
+      "email": "demo1@demo.com",
+      "name": "demo1",
+      "password": "12345678",
+      "id": 4
+    },
+    {
+      "email": "demo2@demo.com",
+      "name": "demo2",
+      "password": "12345678",
+      "id": 5
+    },
+    {
+      "email": "demo3@demo.com",
+      "name": "demo3",
+      "password": "12345678",
+      "id": 6
+    },
+    {
+      "email": "demo4@demo.com",
+      "name": "demo4",
+      "password": "12345678",
+      "id": 7
+    },
+    {
+      "email": "demo5@demo.com",
+      "name": "demo5",
+      "password": "12345678",
+      "id": 8
+    }
+  ],
+  "todolist": [
+    {
+      "id": 1,
+      "arr": []
+    },
+    {
+      "id": 2,
+      "arr": [
+        "Cycling",
+        "Talk",
+        "Dance"
+      ]
+    },
+    {
+      "id": 3,
+      "arr": []
+    },
+    {
+      "id": 4,
+      "arr": [
+        "Cycle",
+        "Walk",
+        "Talk",
+        "Dance",
+        "Wine"
+      ]
+    },
+    {
+      "arr": [],
+      "id": 5
+    },
+    {
+      "arr": [],
+      "id": 6
+    },
+    {
+      "arr": [],
+      "id": 7
+    },
+    {
+      "arr": [],
+      "id": 8
+    }
+  ]
+}
